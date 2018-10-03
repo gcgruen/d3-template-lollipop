@@ -23,5 +23,9 @@ This is some dummy-code with dummy-data to produce a lollipop chart that looks l
 | This is where your different y-variables go,if you have more than one data point associated with one y-variable, enter each of them as a separate row | This is where the category your classes go that you want to use to color-code< in case you only have one data point for each y-variable this is probably not necessary |  This is where the actual datapoint goes that is associated with a certain y-variable & category combination |
 
 ## Real-life example (no dummy data)
-This repo contains only a dummy example. If you want to see an example with actual data, please check out [this repo](https://github.com/dw-data/quantify-europe_income-thresholds)
+This repo contains only a dummy example. If you want to see an example with actual data, please check out [this repo](https://github.com/dw-data/quantify-europe_income-thresholds).
+
+
+## Usage & questions
+Feel free to use this code, any form of credit much appreciated, but not mandatory. If you have questions, feel free to get in touch via gcgruen[at]gmail[dot]com
 
